@@ -22,16 +22,24 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 include('includes/header.php'); 
 ?>
 
+<!-- About header -->
+<section class="about-contact bg-light">
+    <div class="container">
+        <h1 class="text-center">Contact Us</h1>
+        <p class="text-center lead"><strong>Get in Touch</strong></p>
+        <p class="text-center lead">Have questions? We'd love to hear from you.</p>
+    </div>
+ </section>
+
 <section class="contact">
     <div class="container">
-        <h2 class="text-center mb-4">Contact Us</h2>
         
         <?php if (isset($success)): ?>
             <div class="alert alert-success" role="alert">
                 <?php echo $success; ?>
             </div>
         <?php endif; ?>
-        s
+    
         <?php if (isset($error)): ?>
             <div class="alert alert-danger" role="alert">
                 <?php echo $error; ?>
@@ -41,9 +49,7 @@ include('includes/header.php');
         <div class="row">
             <div class="col-md-6">
                 <div class="contact-info mb-5">
-                    <h3>Get in Touch</h3>
-                    <p class="lead">Have questions? We'd love to hear from you.</p>
-                    
+        
                     <div class="mt-4">
                         <h4>Contact Information</h4>
                         <ul class="list-unstyled">

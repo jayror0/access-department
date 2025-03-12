@@ -500,6 +500,15 @@ footer {
 }
 
 
+/* About Contact Styles */
+.about-contact {
+    margin-top: 3rem;
+    padding: 5rem 0 4rem;
+    background: linear-gradient(45deg, var(--primary), var(--accent));
+    color: white;
+    margin-bottom: 3rem;
+}
+
 .available-courses {
     padding: 5rem 0;
 }

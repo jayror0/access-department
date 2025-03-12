@@ -1,7 +1,7 @@
 <?php include('includes/header.php'); ?>
 
 
-<!-- About header -->$_COOKIE
+<!-- About header -->
  <section class="about-header bg-light">
     <div class="container">
         <h1 class="text-center">About Our Department</h1>
