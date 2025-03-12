@@ -33,22 +33,6 @@
                 <div class="course-card">
                     <div class="card h-100">
                         <div class="card-body">
-                            <i class="fas fa-mobile-alt fa-3x mb-3"></i>
-                            <h5>Mobile App Development</h5>
-                            <p class="text-muted">Create native mobile applications for iOS and Android platforms.</p>
-                            <ul class="course-features">
-                                <li><i class="fas fa-check"></i> iOS Development</li>
-                                <li><i class="fas fa-check"></i> Android Development</li>
-                                <li><i class="fas fa-check"></i> Cross-platform Solutions</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="course-card">
-                    <div class="card h-100">
-                        <div class="card-body">
                             <i class="fas fa-network-wired fa-3x mb-3"></i>
                             <h5>Networking Fundamentals</h5>
                             <p class="text-muted">Master computer networking concepts and practical implementations.</p>
