@@ -53,7 +53,7 @@ include('includes/header.php');
                     <div class="mt-4">
                         <h4>Contact Information</h4>
                         <ul class="list-unstyled">
-                            <li class="mb-3">
+                            <li class="mb-1">
                                 <i class="fas fa-map-marker-alt me-2"></i>
                                 Southern Philippines Institute of Science & Technology<br>
                                 <span class="ms-4">Dasmariñas, Cavite</span>
@@ -64,14 +64,14 @@ include('includes/header.php');
                             </li>
                             <li class="mb-3">
                                 <i class="fas fa-envelope me-2"></i>
-                                info@spistech.edu.ph
+                                accessdepartment@spist.edu.ph
                             </li>
                         </ul>
                     </div>
                 </div>
 
                 <form action="contact.php" method="POST" class="contact-form">
-                    <div class="mb-3">
+                    <div class="mb-2">
                         <label for="name" class="form-label">Name</label>
                         <input type="text" class="form-control" id="name" name="name" required>
                     </div>
@@ -83,7 +83,7 @@ include('includes/header.php');
                         <label for="message" class="form-label">Message</label>
                         <textarea class="form-control" id="message" name="message" rows="5" required></textarea>
                     </div>
-                    <button type="submit" class="btn btn-primary">Send Message</button>
+                    <button type="submit" class="btn btn-success">Send Message</button>
                 </form>
             </div>
             
@@ -103,8 +103,7 @@ include('includes/header.php');
                     <div class="mt-4">
                         <h4>Office Hours</h4>
                         <ul class="list-unstyled">
-                            <li><strong>Monday - Friday:</strong> 8:00 AM - 5:00 PM</li>
-                            <li><strong>Saturday:</strong> 9:00 AM - 5:00 PM</li>
+                            <li><strong>Monday - Saturday:</strong> 8:00 AM - 5:00 PM</li>
                             <li><strong>Sunday:</strong> Closed</li>
                         </ul>
                     </div>

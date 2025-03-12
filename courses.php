@@ -13,17 +13,21 @@
     <div class="container">
         <h2 class="text-center">Available Courses</h2>
         <div class="row g-4">
+            
             <div class="col-lg-4 col-md-6">
                 <div class="course-card">
                     <div class="card h-100">
                         <div class="card-body">
-                            <i class="fas fa-code fa-3x mb-3"></i>
-                            <h5>Web Development</h5>
-                            <p class="text-muted">Learn HTML, CSS, JavaScript, and modern frameworks to build responsive websites.</p>
+                            <i class="fas fa-network-wired fa-3x mb-3"></i>
+                            <h5>Information Technology</h5>
+                            <p class="text-muted">Master infrastructure management and enterprise system operations.</p>
                             <ul class="course-features">
-                                <li><i class="fas fa-check"></i> Frontend & Backend Development</li>
-                                <li><i class="fas fa-check"></i> Responsive Design</li>
-                                <li><i class="fas fa-check"></i> Database Integration</li>
+                                <li><i class="fas fa-check"></i> Network Protocols</li>
+                                <li><i class="fas fa-check"></i> Network Architecture</li>
+                                <li><i class="fas fa-check"></i> Cybersecurity Protocols</li>
+                                <li><i class="fas fa-check"></i> Network Administration</li>
+                                <li><i class="fas fa-check"></i> Disaster Recovery Planning</li>
+                                <li><i class="fas fa-check"></i> Object-oriented programming-OOP</li>
                             </ul>
                         </div>
                     </div>
@@ -33,13 +37,36 @@
                 <div class="course-card">
                     <div class="card h-100">
                         <div class="card-body">
-                            <i class="fas fa-network-wired fa-3x mb-3"></i>
-                            <h5>Networking Fundamentals</h5>
-                            <p class="text-muted">Master computer networking concepts and practical implementations.</p>
+                            <i class="fas fa-code fa-3x mb-3"></i>
+                            <h5>Computer Science</h5>
+                            <p class="text-muted">Develop software solutions and algorithmic thinking expertise.</p>
                             <ul class="course-features">
-                                <li><i class="fas fa-check"></i> Network Protocols</li>
-                                <li><i class="fas fa-check"></i> Security Fundamentals</li>
-                                <li><i class="fas fa-check"></i> Network Administration</li>
+                                <li><i class="fas fa-check"></i> Frontend & Backend Development</li>
+                                <li><i class="fas fa-check"></i> Data Structures & Algorithms</li>
+                                <li><i class="fas fa-check"></i> Machine Learning Basics</li>
+                                <li><i class="fas fa-check"></i> Full-Stack Development</li>
+                                <li><i class="fas fa-check"></i> Database architecture and DevOps</li>
+                                <li><i class="fas fa-check"></i> DevOps Practices</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="course-card">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <i class="fa-solid fa-screwdriver-wrench fa-3x mb-3"></i>
+                            <h5>Computer Engineering</h5>
+                            <p class="text-muted">Design integrated hardware-software systems and embedded solutions.</p>
+                            <ul class="course-features">
+                                <li><i class="fas fa-check"></i> Digital Systems Design</li>
+                                <li><i class="fas fa-check"></i> IoT Development</li>
+                                <li><i class="fas fa-check"></i> Robotics Programming</li>
+                                <li><i class="fas fa-check"></i> Digital Signal Processing</li>
+                                
+                                <li><i class="fas fa-check"></i> VLSI & Chip Design</li>
+                                <li><i class="fas fa-check"></i> Embedded Systems Design</li>
                             </ul>
                         </div>
                     </div>

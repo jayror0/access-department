@@ -134,15 +134,6 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="card h-100">
-                    <div class="card-body">
-                        <i class="fas fa-mobile-alt fa-3x mb-3"></i>
-                        <h5>Mobile Dev</h5>
-                        <p class="text-muted">Create powerful mobile applications for iOS and Android.</p>
-                    </div>
-                </div>
-            </div>
         </div>
     </div>
 </section>
@@ -160,20 +151,7 @@
                 </h2>
                 <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne">
                     <div class="accordion-body">
-                        We offer courses in Python, JavaScript, Java, C++, and more modern programming languages.
-                    </div>
-                </div>
-            </div>
-
-            <div class="accordion-item">
-                <h2 class="accordion-header" id="headingTwo">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo">
-                        Do you offer certification programs?
-                    </button>
-                </h2>
-                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo">
-                    <div class="accordion-body">
-                        Yes, we provide industry-recognized certifications for all our courses upon successful completion.
+                        We offer courses in C, JavaScript, Java, C++, PHP and more modern programming languages.
                     </div>
                 </div>
             </div>
@@ -181,15 +159,32 @@
             <div class="accordion-item">
                 <h2 class="accordion-header" id="headingThree">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree">
-                        Can I access course materials online?
+                    Are the things taught here and the teachers good and well-rounded?
                     </button>
                 </h2>
                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree">
                     <div class="accordion-body">
-                        Absolutely! All enrolled students get 24/7 access to our online learning platform with course materials.
+                    Absolutely yes! Our institution takes pride in delivering high-quality education through Expert Faculty Team and Curriculum Excellence
                     </div>
                 </div>
             </div>
+
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingThree">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree">
+                    What courses did this school offer?
+                    </button>
+                </h2>
+                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree">
+                    <div class="accordion-body">
+                        BSIT - Bachelor of Science in Information Technology<br>
+                        BSCS - Bachelor of Science in Computer Science<br>
+                        BSCPE - Bachelor of Science in Computer Engineering<br>
+                    </div>
+                </div>
+            </div>
+
+
         </div>
     </div>
 </section>
@@ -213,7 +208,7 @@
                     <i class="fas fa-user-circle fa-3x me-3 text-success"></i>
                     <div>
                         <h5>Gino Anton</h5>
-                        <p class="text-muted mb-0">Data Science Graduate</p>
+                        <p class="text-muted mb-0">Information Technolgy Graduate</p>
                     </div>
                 </div>
             </div>
@@ -230,7 +225,7 @@
                     <i class="fas fa-user-circle fa-3x me-3 text-success"></i>
                     <div>
                         <h5>Kevin Laurente</h5>
-                        <p class="text-muted mb-0">Information Technolgoy Graduate</p>
+                        <p class="text-muted mb-0">Information Technolgy Graduate</p>
                     </div>
                 </div>
             </div>

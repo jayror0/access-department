@@ -17,6 +17,8 @@
     <link rel="stylesheet" href="css/style.css">
     <!-- Bootstrap JS Bundle with Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" defer></script>
+    <!-- icon of page -->
+    <link rel="icon" type="image/x-icon" href="images/access-department-logo.ico">
 </head>
 <body>
     <!-- Page Loader -->

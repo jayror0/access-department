@@ -6,7 +6,7 @@
     <div class="container">
         <h1 class="text-center">About Our Department</h1>
         <p class="text-center lead">Welcome to the ACCESS Department at Southern Philippines Institute of Science & Technology</p>
-        <p class="text-center lead">Our department is dedicated to providing high-quality education in computer sciecne and informatio technology. We offer comprehensive programs that prepare students for successful carrers in the rapidly evolving tech industry.</p>
+        <p class="text-center lead">Our department is dedicated to providing high-quality education in Informatio Technology, Computer Science, and Computer Engineering. We offer comprehensive programs that prepare students for successful carrers in the rapidly evolving tech industry.</p>
     </div>
  </section>
 
@@ -15,10 +15,10 @@
         <div class="row">
             <div class="col-lg-10 mx-auto">
                 <h3 class="mt-1">Our Mission</h3>
-                <p>To educate and inspire the next generation of technology leaders through innovative teaching, practical experience, and industry collaboration.</p>
+                <p>To nurture and develop individuals through a technology-integrated skill for a meaningful, productive,and God-fearing Society.</p>
                 
                 <h3 class="mt-4">Our Vision</h3>
-                <p>To be a leading center of excellence in computer science education, fostering innovation, research, and technological advancement in the Philippines.</p>
+                <p>To a builder of youth, highly-competitive to meet the growing demands of industrialization and the process of globalization.</p>
                 
                 <div class="mt-4">
                     <h3>Key Features</h3>
