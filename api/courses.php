@@ -1,4 +1,4 @@
-<?php include('../includes/header.php'); ?>
+<?php include(__DIR__ . '/../includes/header.php'); ?>
 
 <!-- Courses Header -->
 <section class="courses-header bg-light">
@@ -137,4 +137,4 @@
     </div>
 </section>
 
-<?php include('../includes/footer.php'); ?>
+<?php include(__DIR__ . '/../includes/footer.php'); ?>

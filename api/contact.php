@@ -19,7 +19,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $error = "Please fill in all fields correctly.";
     }
 }
-include('../includes/header.php'); 
+include(__DIR__ . '/../includes/header.php'); 
 ?>
 
 <!-- About header -->
@@ -113,4 +113,4 @@ include('../includes/header.php');
     </div>
 </section>
 
-<?php include('../includes/footer.php'); ?>
+<?php include(__DIR__ . '/../includes/footer.php'); ?>
