@@ -1,4 +1,5 @@
-<?php include('includes/header.php'); ?>
+<?php
+include('../includes/header.php'); ?>
 
 <!-- Hero Section -->
 <section class="hero text-white">
@@ -10,7 +11,7 @@
                 <a href="courses.php" class="btn btn-light btn-lg">Get Started</a>
             </div>
             <div class="col-md-6 text-center">
-                <img src="images/access-department-logo.png" alt="ACCESS Department Logo" class="hero-logo mb-4">
+                <img src="../images/access-department-logo.png" alt="ACCESS Department Logo" class="hero-logo mb-4">
             </div>
         </div>
     </div>
@@ -303,4 +304,4 @@
     </div>
 </section>
 
-<?php include('includes/footer.php'); ?>
+<?php include('../includes/footer.php'); ?>
