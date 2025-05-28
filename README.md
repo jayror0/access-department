@@ -1,10 +1,9 @@
 # Access Department
 
-A PHP-based web application for managing departmental access. This project helps you organize, track, and control access within your organization.
+A PHP-based web application for managing departmental access. 
 
 ## Features
 
-- User authentication and authorization
 - Departmental data management
 - Responsive web design (PHP, CSS, JavaScript)
 - Easy deployment with XAMPP
