@@ -4,7 +4,7 @@ A PHP-based web application for managing departmental access.
 
 ## Features
 
-- Departmental data management
+- ORGANIZATION EVENT
 - Responsive web design (PHP, CSS, JavaScript)
 - Easy deployment with XAMPP
 
