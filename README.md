@@ -17,6 +17,5 @@ A PHP-based web application for managing departmental access.
 
 ## Installation
 
-1. **Download** the repository or clone it:
-   ```bash
-   git clone https://github.com/jayror0/access-department.git
+1. **Download** the repository
+
