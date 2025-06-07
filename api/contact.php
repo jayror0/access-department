@@ -22,14 +22,17 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 include(__DIR__ . '/../includes/header.php'); 
 ?>
 
-<!-- About header -->
-<section class="about-contact bg-light">
+<section class="about-contact bg-light py-5">
     <div class="container">
-        <h1 class="text-center">Contact Us</h1>
-        <p class="text-center lead"><strong>Get in Touch</strong></p>
-        <p class="text-center lead">Have questions? We'd love to hear from you.</p>
+        <div class="row justify-content-center">
+            <div class="col-lg-10">
+                <h1 class="text-center text-dark mb-3">Contact Us</h1>
+                <p class="text-center lead text-muted mb-1"><strong>Get in Touch</strong></p>
+                <p class="text-center lead text-muted">Have questions? We'd love to hear from you.</p>
+            </div>
+        </div>
     </div>
- </section>
+</section>
 
 <section class="contact">
     <div class="container">
@@ -86,7 +89,6 @@ include(__DIR__ . '/../includes/header.php');
                     <button type="submit" class="btn btn-success">Send Message</button>
                 </form>
             </div>
-            
             
             <div class="col-md-6">
                 <div class="map-container mt-4">

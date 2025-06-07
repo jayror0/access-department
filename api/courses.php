@@ -1,14 +1,16 @@
 <?php include(__DIR__ . '/../includes/header.php'); ?>
 
-<!-- Courses Header -->
-<section class="courses-header bg-light">
+<section class="courses-header bg-light py-5">
     <div class="container">
-        <h1 class="text-center">Our Courses</h1>
-        <p class="text-center lead">Explore our comprehensive range of technology courses designed to help you succeed.</p>
+        <div class="row justify-content-center">
+            <div class="col-lg-10">
+                <h1 class="text-center text-dark mb-4">Our Courses</h1>
+                <p class="text-center lead text-muted">Explore our comprehensive range of technology courses designed to help you succeed.</p>
+            </div>
+        </div>
     </div>
 </section>
 
-<!-- Available Courses -->
 <section class="available-courses">
     <div class="container">
         <h2 class="text-center">Available Courses</h2>
@@ -76,10 +78,9 @@
     </div>
 </section>
 
-<!-- Learning Tips -->
-<section class="learning-tips bg-light">
+<section class="learning-tips bg-light py-5">
     <div class="container">
-        <h2 class="text-center">Learning Tips & Strategies</h2>
+        <h2 class="text-center text-dark mb-5">Learning Tips & Strategies</h2>
         <div class="row g-4">
             <div class="col-lg-6">
                 <div class="tip-card">

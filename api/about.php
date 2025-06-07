@@ -1,14 +1,16 @@
 <?php include(__DIR__ . '/../includes/header.php'); ?>
 
-
-<!-- About header -->
- <section class="about-header bg-light">
+<section class="about-header bg-light py-5">
     <div class="container">
-        <h1 class="text-center">About Our Department</h1>
-        <p class="text-center lead">Welcome to the ACCESS Department at Southern Philippines Institute of Science & Technology</p>
-        <p class="text-center lead">Our department is dedicated to providing high-quality education in Informatio Technology, Computer Science, and Computer Engineering. We offer comprehensive programs that prepare students for successful carrers in the rapidly evolving tech industry.</p>
+        <div class="row justify-content-center">
+            <div class="col-lg-10">
+                <h1 class="text-center text-dark mb-4">About Our Department</h1>
+                <p class="text-center lead text-dark mb-3">Welcome to the ACCESS Department at Southern Philippines Institute of Science & Technology</p>
+                <p class="text-center lead text-muted">Our department is dedicated to providing high-quality education in Information Technology, Computer Science, and Computer Engineering. We offer comprehensive programs that prepare students for successful careers in the rapidly evolving tech industry.</p>
+            </div>
+        </div>
     </div>
- </section>
+</section>
 
 <section class="about">
     <div class="container">
