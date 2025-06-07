@@ -1,4 +1,4 @@
-    <!-- Footer -->
+ 
     <footer class="bg-dark text-white">
         <div class="container py-5">
             <div class="row g-4">
@@ -60,7 +60,7 @@
         </div>
     </footer>
 
-    <!-- Custom Script -->
     <script src="../js/script.js"></script>
+    <script src="../js/events.js"></script>
 </body>
 </html>
